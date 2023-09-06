@@ -1,63 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T02:41:15.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QcF7Cx-o_0qrWcWqS-1Z" version="20.8.20" type="github">
-  <diagram name="第 1 页" id="h5YSy236paZkK4-2h6OC">
-    <mxGraphModel dx="2074" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-09-06T03:14:15.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.2" etag="e36Bso4osM3x82hFnq9E" type="github">
+  <diagram name="第 1 页" id="7x0FycOl71cl4HVPAylI">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6bf3mSeWCUpIWqYo0kT-1" target="_6bf3mSeWCUpIWqYo0kT-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-1" value="海康威视接口获取数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6bf3mSeWCUpIWqYo0kT-3" target="_6bf3mSeWCUpIWqYo0kT-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6bf3mSeWCUpIWqYo0kT-3" target="_6bf3mSeWCUpIWqYo0kT-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-3" value="存储数据到hbase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6bf3mSeWCUpIWqYo0kT-4" target="_6bf3mSeWCUpIWqYo0kT-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_6bf3mSeWCUpIWqYo0kT-4" target="_6bf3mSeWCUpIWqYo0kT-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-4" value="计算数据，结果存储到mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_6bf3mSeWCUpIWqYo0kT-7" target="_6bf3mSeWCUpIWqYo0kT-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="610" y="570" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-22" value="获取统计" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_6bf3mSeWCUpIWqYo0kT-21">
-          <mxGeometry x="-0.2095" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-7" value="javaweb API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6bf3mSeWCUpIWqYo0kT-8" target="_6bf3mSeWCUpIWqYo0kT-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-8" value="开始" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="190" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-9" value="结束" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="650" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-16" value="habse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="354" y="420" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_6bf3mSeWCUpIWqYo0kT-17" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="354" y="530" width="60" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
