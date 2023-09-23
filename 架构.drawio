@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T02:22:51.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NTmjsxWPW-hOsMLJbAOd" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T02:24:23.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_tRJnVSLjmF96nJhNt-_" version="21.8.1" type="github">
   <diagram name="第 1 页" id="elk43JXTNHSnNoxRmuOH">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
         <mxCell id="yu3goCcK6a1j_ML2S7no-28" value="spring cloud" style="rounded=0;whiteSpace=wrap;html=1;" parent="yu3goCcK6a1j_ML2S7no-24" vertex="1">
           <mxGeometry x="18" y="190" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yu3goCcK6a1j_ML2S7no-29" value="注册中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="yu3goCcK6a1j_ML2S7no-24" vertex="1">
+        <mxCell id="yu3goCcK6a1j_ML2S7no-29" value="注册中心eureka" style="rounded=0;whiteSpace=wrap;html=1;" parent="yu3goCcK6a1j_ML2S7no-24" vertex="1">
           <mxGeometry x="18" y="140" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yu3goCcK6a1j_ML2S7no-30" value="统一网管zuul" style="rounded=0;whiteSpace=wrap;html=1;" parent="yu3goCcK6a1j_ML2S7no-24" vertex="1">
