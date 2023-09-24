@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T11:31:14.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="r7LWoDVyQW-f-CSzEE5B" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T11:55:00.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="pEN0iXYNdM2SJl1PdvVM" version="21.8.1" type="github">
   <diagram name="第 1 页" id="YVk7t4osAfRgIMttAyCI">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="xjl81ZyFJdiQL76So2CX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjl81ZyFJdiQL76So2CX-6" target="xjl81ZyFJdiQL76So2CX-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xjl81ZyFJdiQL76So2CX-6" value="采编发服务纠错、排版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xjl81ZyFJdiQL76So2CX-6" value="智能采编发服务纠错、排版（二期）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202" y="319" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xjl81ZyFJdiQL76So2CX-7" value="发布到网站首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="xjl81ZyFJdiQL76So2CX-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xjl81ZyFJdiQL76So2CX-16" target="xjl81ZyFJdiQL76So2CX-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xjl81ZyFJdiQL76So2CX-16" value="定时任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xjl81ZyFJdiQL76So2CX-16" value="定时任务（二期）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="438" y="419" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xjl81ZyFJdiQL76So2CX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xjl81ZyFJdiQL76So2CX-21" target="xjl81ZyFJdiQL76So2CX-11">
