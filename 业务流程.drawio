@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T11:32:25.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.8.1" etag="jfYP3yQxIndWHJvlKCQt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T11:49:22.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="enHaTl9GVsty6nJrntLV" version="21.8.1" type="github">
   <diagram name="第 1 页" id="iGDA9ZPP4zy_PtoOycuX">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="423" y="296" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-15" value="审核文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PEYpkYnS4u4n-pv27VUz-5">
+          <mxGeometry x="20" y="119" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-6" value="运营人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-7" value="部门领导" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-8" value="网站用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="589" y="298" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-16" value="访问网站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PEYpkYnS4u4n-pv27VUz-9">
+          <mxGeometry x="20" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-19" value="浏览文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PEYpkYnS4u4n-pv27VUz-9">
+          <mxGeometry x="20" y="117" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-10" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="249" y="310" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-14" value="编辑文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PEYpkYnS4u4n-pv27VUz-10">
+          <mxGeometry x="20" y="105" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-21" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="241" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-22" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="99" y="310" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-23" value="配置栏目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PEYpkYnS4u4n-pv27VUz-22">
+          <mxGeometry x="20" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-25" value="配置网站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PEYpkYnS4u4n-pv27VUz-22">
+          <mxGeometry x="20" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-27" value="管理用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PEYpkYnS4u4n-pv27VUz-22">
+          <mxGeometry x="20" y="74" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEYpkYnS4u4n-pv27VUz-14" target="PEYpkYnS4u4n-pv27VUz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEYpkYnS4u4n-pv27VUz-15" target="PEYpkYnS4u4n-pv27VUz-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PEYpkYnS4u4n-pv27VUz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEYpkYnS4u4n-pv27VUz-15" target="PEYpkYnS4u4n-pv27VUz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
