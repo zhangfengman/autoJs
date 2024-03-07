@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T08:03:36.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.1" etag="u7SFnXuQXFR4riXpXhu3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T08:23:39.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="P8Tyg0vEJWXkECtK2Peu" version="24.0.1" type="github">
   <diagram name="第 1 页" id="RZmathICBuaUP1Z9X-BT">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="710" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="793" y="310" width="210" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-3" value="环境安全" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="832.75" y="320" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-5" value="开发环境安全" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="826.5" y="380" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-6" value="程序安全" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="347" y="330" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-8" value="第三方软件安全" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="826.5" y="450" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-9" value="运行环境安全" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="826.5" y="520" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="426" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-11" value="数据清洗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="105" y="448" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-12" value="输入验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="481" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-13" value="输出净化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="251.25" y="425" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="425" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="425" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-17" value="数据库管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="628" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-18" value="文件管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="628" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-19" value="网络传输" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="628" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-20" value="资源使用安全" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="55" y="580" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-21" value="安全功能实现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-22" value="数据加密" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="276.25" y="460" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-24" value="数据保护" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="276.25" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-25" value="访问控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="444" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-26" value="身份鉴别&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22444%22%20y%3D%22440%22%20width%3D%22100%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444" y="470" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-27" value="口令安全&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E8%BA%AB%E4%BB%BD%E9%89%B4%E5%88%AB%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20text-wrap%3A%20nowrap%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522%25E8%25AE%25BF%25E9%2597%25AE%25E6%258E%25A7%25E5%2588%25B6%2522%2520style%253D%2522text%253Bhtml%253D1%253Balign%253Dcenter%253BverticalAlign%253Dmiddle%253BwhiteSpace%253Dwrap%253Brounded%253D0%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522444%2522%2520y%253D%2522440%2522%2520width%253D%2522100%2522%2520height%253D%252230%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22444%22%20y%3D%22470%22%20width%3D%22100%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-28" value="权限管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444" y="509" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7MoIx1mdzT6-OvTNjF_R-29" value="日志安全" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
