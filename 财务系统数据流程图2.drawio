@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T07:04:48.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CruqlpZYl3H8cKzcyy9E" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T13:57:43.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WTFTlp_6QKxpn-4PcGSc" version="24.2.1" type="github">
   <diagram name="第 1 页" id="xtZ3JJa1oMo9SXhtJ2GA">
     <mxGraphModel dx="2261" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sC5ILcbRd69KUFXTFvBp-10" value="存储支付信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sC5ILcbRd69KUFXTFvBp-10" value="财务系统存储支付信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-62" y="530" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sC5ILcbRd69KUFXTFvBp-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sC5ILcbRd69KUFXTFvBp-12" target="sC5ILcbRd69KUFXTFvBp-15">
@@ -64,7 +64,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sC5ILcbRd69KUFXTFvBp-12" value="更新支付状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sC5ILcbRd69KUFXTFvBp-12" value="财务系统更新支付状态（已支付、未支付、支付关闭）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-65" y="710" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sC5ILcbRd69KUFXTFvBp-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -86,7 +86,7 @@
         <mxCell id="sC5ILcbRd69KUFXTFvBp-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sC5ILcbRd69KUFXTFvBp-31" target="sC5ILcbRd69KUFXTFvBp-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sC5ILcbRd69KUFXTFvBp-31" value="存储退费信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sC5ILcbRd69KUFXTFvBp-31" value="财务系统存储退费信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="525" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sC5ILcbRd69KUFXTFvBp-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sC5ILcbRd69KUFXTFvBp-33" target="sC5ILcbRd69KUFXTFvBp-15">
@@ -162,7 +162,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sC5ILcbRd69KUFXTFvBp-49" value="更新退费状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sC5ILcbRd69KUFXTFvBp-49" value="财务系统更新退费状态（3次不成功，不再获取）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="710" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sC5ILcbRd69KUFXTFvBp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.441;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sC5ILcbRd69KUFXTFvBp-49" target="sC5ILcbRd69KUFXTFvBp-5">
