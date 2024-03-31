@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T14:24:16.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="21EkWN5jMtRRKDJbKeoQ" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T14:31:46.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="t-xXdxVoXhr-wJywaELH" version="24.2.1" type="github">
   <diagram name="第 1 页" id="xtZ3JJa1oMo9SXhtJ2GA">
     <mxGraphModel dx="2261" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,13 +49,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sC5ILcbRd69KUFXTFvBp-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="sC5ILcbRd69KUFXTFvBp-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="sC5ILcbRd69KUFXTFvBp-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-85" y="740" as="sourcePoint" />
             <mxPoint x="-91" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-200" y="740" />
-              <mxPoint x="-200" y="420" />
+              <mxPoint x="-220" y="740" />
+              <mxPoint x="-220" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -126,7 +126,7 @@
         <mxCell id="sC5ILcbRd69KUFXTFvBp-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sC5ILcbRd69KUFXTFvBp-38" target="sC5ILcbRd69KUFXTFvBp-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="427" y="-261" />
+              <mxPoint x="427" y="-260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -154,8 +154,8 @@
             <mxPoint x="860" y="745" as="sourcePoint" />
             <mxPoint x="859" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="990" y="745" />
-              <mxPoint x="990" y="420" />
+              <mxPoint x="1020" y="745" />
+              <mxPoint x="1020" y="420" />
               <mxPoint x="859" y="420" />
             </Array>
           </mxGeometry>
@@ -218,10 +218,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sC5ILcbRd69KUFXTFvBp-84" value="&lt;div&gt;在线支付记录&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_onlinepayrecord&lt;/div&gt;&lt;div&gt;在线支付细目&lt;/div&gt;&lt;div&gt;uf_onlinepaydetail&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="480" width="120" height="125" as="geometry" />
+          <mxGeometry x="-191" y="480" width="120" height="125" as="geometry" />
         </mxCell>
         <mxCell id="sC5ILcbRd69KUFXTFvBp-85" value="&lt;div&gt;退费记录&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_refund_record&lt;/div&gt;&lt;div&gt;退费明细&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_refund_detail&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
-          <mxGeometry x="880" y="480" width="100" height="125" as="geometry" />
+          <mxGeometry x="880" y="475" width="100" height="125" as="geometry" />
         </mxCell>
         <mxCell id="sC5ILcbRd69KUFXTFvBp-86" value="&lt;div&gt;缴费明细&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_jiaofei_detail缴费细目&lt;/div&gt;&lt;div&gt;uf_jiaofei_ximu&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="108" y="600" width="90" height="100" as="geometry" />
@@ -282,6 +282,12 @@
         </mxCell>
         <mxCell id="sC5ILcbRd69KUFXTFvBp-115" value="&lt;div&gt;退费记录&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_refund_record&lt;/div&gt;&lt;div&gt;退费明细&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_refund_detail&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="679" y="-115" width="100" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="sC5ILcbRd69KUFXTFvBp-117" value="&lt;div&gt;1.缴费明细&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_jiaofei_detail&lt;/div&gt;&lt;div&gt;2.缴费细目&lt;/div&gt;&lt;div&gt;uf_jiaofei_ximu&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;3.在线支付记录&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_onlinepayrecord&lt;/div&gt;&lt;div&gt;4.在线支付细目&lt;/div&gt;&lt;div&gt;uf_onlinepaydetail&lt;br&gt;&lt;div&gt;&lt;div&gt;5.退费记录&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_refund_record&lt;/div&gt;&lt;div&gt;6.退费明细&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_refund_detail&lt;br&gt;&lt;div&gt;6银行交易回单记录&lt;div&gt;uf_banktradereceipt&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="581" y="-750" width="250" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="sC5ILcbRd69KUFXTFvBp-118" value="交易相关表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="-800" width="101" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
