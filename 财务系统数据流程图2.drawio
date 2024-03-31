@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T14:12:18.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wGcr2r4e1q0k6lTmijTn" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T14:13:05.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="swYnPlSk8qVEeiy-kG_L" version="24.2.1" type="github">
   <diagram name="第 1 页" id="xtZ3JJa1oMo9SXhtJ2GA">
     <mxGraphModel dx="2261" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,11 +231,8 @@
         <mxCell id="sC5ILcbRd69KUFXTFvBp-88" value="银行交易回单记录&lt;div&gt;uf_banktradereceipt&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="130" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="sC5ILcbRd69KUFXTFvBp-90" value="&lt;div&gt;缴费明细&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_jiaofei_detail缴费细目&lt;/div&gt;&lt;div&gt;uf_jiaofei_ximu&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="-270" width="140" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="sC5ILcbRd69KUFXTFvBp-91" value="&lt;div&gt;缴费明细&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_jiaofei_detail缴费细目&lt;/div&gt;&lt;div&gt;uf_jiaofei_ximu&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="-67" y="-420" width="140" height="100" as="geometry" />
+          <mxGeometry x="110" y="-440" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sC5ILcbRd69KUFXTFvBp-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -281,6 +278,12 @@
         </mxCell>
         <mxCell id="sC5ILcbRd69KUFXTFvBp-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sC5ILcbRd69KUFXTFvBp-44" target="sC5ILcbRd69KUFXTFvBp-103">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sC5ILcbRd69KUFXTFvBp-110" value="&lt;div&gt;在线支付记录&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_onlinepayrecord&lt;/div&gt;&lt;div&gt;在线支付细目&lt;/div&gt;&lt;div&gt;uf_onlinepaydetail&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-290" width="120" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="sC5ILcbRd69KUFXTFvBp-111" value="&lt;div&gt;退费记录&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_refund_record&lt;/div&gt;&lt;div&gt;退费明细&lt;br&gt;&lt;/div&gt;&lt;div&gt;uf_refund_detail&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-290" width="100" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
