@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T12:25:29.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4iy_z_JiS3rmS7UO4Ka9" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T12:28:33.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2FESfFufN0xsSjMsCo7O" version="24.2.3" type="github">
   <diagram name="第 1 页" id="kgs5A8uM3iJwmW8YWe8u">
     <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,19 +11,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-1" value="退费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="20" width="120" height="40" as="geometry" />
+          <mxGeometry x="316.99" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ObiqUTKcGc6syNEk9Sbg-2" target="ObiqUTKcGc6syNEk9Sbg-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-2" value="线上退费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="176.99" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ObiqUTKcGc6syNEk9Sbg-3" target="ObiqUTKcGc6syNEk9Sbg-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-3" value="线下退费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="666.99" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.392;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ObiqUTKcGc6syNEk9Sbg-4" target="ObiqUTKcGc6syNEk9Sbg-5">
           <mxGeometry relative="1" as="geometry">
@@ -38,11 +38,16 @@
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ObiqUTKcGc6syNEk9Sbg-4" target="ObiqUTKcGc6syNEk9Sbg-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ObiqUTKcGc6syNEk9Sbg-52" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ObiqUTKcGc6syNEk9Sbg-31">
+          <mxGeometry x="0.1885" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-4" value="否是重复支付" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="220" width="70" height="70" as="geometry" />
+          <mxGeometry x="201.99" y="330" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-5" value="执行退费（重复3次）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="-20" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObiqUTKcGc6syNEk9Sbg-6" target="ObiqUTKcGc6syNEk9Sbg-8">
           <mxGeometry relative="1" as="geometry">
@@ -76,6 +81,9 @@
         </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-8" value="退费成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ObiqUTKcGc6syNEk9Sbg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObiqUTKcGc6syNEk9Sbg-11" target="ObiqUTKcGc6syNEk9Sbg-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-11" value="通知学历认证系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="1090" width="120" height="40" as="geometry" />
@@ -167,6 +175,15 @@
         </mxCell>
         <mxCell id="ObiqUTKcGc6syNEk9Sbg-42" value="退回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="485" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ObiqUTKcGc6syNEk9Sbg-48" value="结束" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ObiqUTKcGc6syNEk9Sbg-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ObiqUTKcGc6syNEk9Sbg-50" target="ObiqUTKcGc6syNEk9Sbg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObiqUTKcGc6syNEk9Sbg-50" value="开始" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="10" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
