@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T03:02:28.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VT86bYxSb0aCcMsg0KZR" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T03:04:48.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2cmUnzEgktBCIF-9TU5D" version="24.2.3" type="github">
   <diagram name="第 1 页" id="mmZgXKD3ZRKLnQviUQY3">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="rgHk43R0lnlLl56AyZZH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rgHk43R0lnlLl56AyZZH-2" target="rgHk43R0lnlLl56AyZZH-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="240" />
-              <mxPoint x="530" y="240" />
+              <mxPoint x="570" y="240" />
+              <mxPoint x="570" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -36,13 +36,12 @@
         <mxCell id="rgHk43R0lnlLl56AyZZH-2" value="学历认证系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rgHk43R0lnlLl56AyZZH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="rgHk43R0lnlLl56AyZZH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.134;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rgHk43R0lnlLl56AyZZH-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="140" as="sourcePoint" />
             <mxPoint x="220" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="240" />
-              <mxPoint x="220" y="240" />
+              <mxPoint x="249" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -70,7 +69,7 @@
         <mxCell id="rgHk43R0lnlLl56AyZZH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="rgHk43R0lnlLl56AyZZH-4" target="rgHk43R0lnlLl56AyZZH-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="510" />
+              <mxPoint x="140" y="520" />
               <mxPoint x="140" y="315" />
             </Array>
           </mxGeometry>
@@ -86,7 +85,7 @@
         <mxCell id="rgHk43R0lnlLl56AyZZH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rgHk43R0lnlLl56AyZZH-5" target="rgHk43R0lnlLl56AyZZH-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="524" />
+              <mxPoint x="440" y="524" />
             </Array>
           </mxGeometry>
         </mxCell>
