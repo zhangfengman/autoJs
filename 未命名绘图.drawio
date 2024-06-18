@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T15:48:12.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JXJjqXIeHdDeCF3WgTJ2" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T16:25:39.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="iyIsD18eFQmFeU3TAoNn" version="24.5.5" type="github">
   <diagram name="第 1 页" id="dkDrujgfrzrHCr6JKOxO">
     <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
         <mxCell id="xjG20H1qRG9oPK2fk3ad-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xjG20H1qRG9oPK2fk3ad-18" target="xjG20H1qRG9oPK2fk3ad-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xjG20H1qRG9oPK2fk3ad-18" value="银联对账（t+1）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xjG20H1qRG9oPK2fk3ad-18" value="银联对账（t+2）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-236" y="474" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xjG20H1qRG9oPK2fk3ad-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjG20H1qRG9oPK2fk3ad-27" target="xjG20H1qRG9oPK2fk3ad-3">
@@ -169,6 +169,15 @@
         </mxCell>
         <mxCell id="xjG20H1qRG9oPK2fk3ad-67" value="是否线上退费" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="165" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xjG20H1qRG9oPK2fk3ad-81" value="银联商户对账（t+1）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="469" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjG20H1qRG9oPK2fk3ad-83" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="630" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xjG20H1qRG9oPK2fk3ad-84" value="往来账月存档&lt;div&gt;（政务退搜狗转收入按自然月）&lt;br&gt;1 最后1天的转收入&lt;br&gt;2 下个月初推送上个的月的转收入&lt;br&gt;&lt;div&gt;3 最后1天的退费（退费的按t+1）&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="700" width="240" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
