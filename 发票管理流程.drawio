@@ -1,9 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="第 1 页" id="uH3TVAWIQt2XayS9qn-8">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-r84uZp2z0_sLQ8WuwAP-1" value="开始" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-r84uZp2z0_sLQ8WuwAP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-r84uZp2z0_sLQ8WuwAP-2" target="-r84uZp2z0_sLQ8WuwAP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-r84uZp2z0_sLQ8WuwAP-5" value="开票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-r84uZp2z0_sLQ8WuwAP-4">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-r84uZp2z0_sLQ8WuwAP-2" value="业务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r84uZp2z0_sLQ8WuwAP-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;&quot; class=&quot;15&quot;&gt;&lt;font style=&quot;&quot;&gt;调用财务系统接口&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 255); font-family: 宋体; text-decoration-line: underline;&quot; face=&quot;Times New Roman&quot;&gt;api&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;u style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 255);&quot; class=&quot;15&quot;&gt;/finaInvoiceRecordController/service&lt;/span&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-r84uZp2z0_sLQ8WuwAP-7" value="是否可开票" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
