@@ -37,17 +37,17 @@
         <mxCell id="pcYIoR_yGcdSTj_8D9E6-4" value="问题修改计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pcYIoR_yGcdSTj_8D9E6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pcYIoR_yGcdSTj_8D9E6-5" target="pcYIoR_yGcdSTj_8D9E6-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pcYIoR_yGcdSTj_8D9E6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="pcYIoR_yGcdSTj_8D9E6-5" target="pcYIoR_yGcdSTj_8D9E6-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcYIoR_yGcdSTj_8D9E6-5" value="更新程序、修复数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pcYIoR_yGcdSTj_8D9E6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pcYIoR_yGcdSTj_8D9E6-5" target="pcYIoR_yGcdSTj_8D9E6-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pcYIoR_yGcdSTj_8D9E6-5" value="更新程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pcYIoR_yGcdSTj_8D9E6-6" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pcYIoR_yGcdSTj_8D9E6-12" value="更新问题信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
@@ -55,11 +55,23 @@
         <mxCell id="pcYIoR_yGcdSTj_8D9E6-20" value="上线计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pcYIoR_yGcdSTj_8D9E6-22" value="修复方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pcYIoR_yGcdSTj_8D9E6-22" value="运维单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pcYIoR_yGcdSTj_8D9E6-25" value="问题记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pcYIoR_yGcdSTj_8D9E6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pcYIoR_yGcdSTj_8D9E6-27" target="pcYIoR_yGcdSTj_8D9E6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pcYIoR_yGcdSTj_8D9E6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="pcYIoR_yGcdSTj_8D9E6-27" target="pcYIoR_yGcdSTj_8D9E6-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pcYIoR_yGcdSTj_8D9E6-27" value="修复数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pcYIoR_yGcdSTj_8D9E6-30" value="修复方案和脚本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
