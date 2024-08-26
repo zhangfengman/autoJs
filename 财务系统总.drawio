@@ -19,8 +19,8 @@
         <mxCell id="rgHk43R0lnlLl56AyZZH-2" value="政务平台(学历认证系统、公派)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="90" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LMH38nqzzMzODzYaf8PD-1" value="财务收支系统总" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="120" y="20" width="160" height="30" as="geometry" />
+        <mxCell id="LMH38nqzzMzODzYaf8PD-1" value="财务收支系统总A-0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="430" y="20" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tRCTvvSIcZAqEMqoj9UI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEry_to2XUphcIJdFs72-3" target="rgHk43R0lnlLl56AyZZH-2">
           <mxGeometry relative="1" as="geometry">
