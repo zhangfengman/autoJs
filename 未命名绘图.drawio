@@ -1,9 +1,65 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="第 1 页" id="MaPN-Xjp1Q19OtvaB9xI">
-    <mxGraphModel>
+    <mxGraphModel dx="1428" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-13" value="校内行为分析系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="630" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S2AuWdNAUPI-8GIIVga3-14" target="S2AuWdNAUPI-8GIIVga3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-14" value="海康行为分析主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="790" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-16" value="趴窗台算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-17" value="摄像头1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="S2AuWdNAUPI-8GIIVga3-18" target="S2AuWdNAUPI-8GIIVga3-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="890" />
+              <mxPoint x="335" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-18" value="摄像头30" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-19" value="摄像头1-n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.222;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S2AuWdNAUPI-8GIIVga3-17" target="S2AuWdNAUPI-8GIIVga3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S2AuWdNAUPI-8GIIVga3-19" target="S2AuWdNAUPI-8GIIVga3-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432" y="900" />
+              <mxPoint x="308" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.861;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S2AuWdNAUPI-8GIIVga3-16" target="S2AuWdNAUPI-8GIIVga3-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="740" />
+              <mxPoint x="579" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2AuWdNAUPI-8GIIVga3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.318;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S2AuWdNAUPI-8GIIVga3-14" target="S2AuWdNAUPI-8GIIVga3-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="740" />
+              <mxPoint x="340" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
