@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="第 1 页" id="UG8fbQobTO0QNGl4rgpl">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xp6ZCIb1_FivlFItrcQt-22" edge="1" parent="1" source="Xp6ZCIb1_FivlFItrcQt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Xp6ZCIb1_FivlFItrcQt-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp6ZCIb1_FivlFItrcQt-5" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server" value="OA服务" vertex="1">
+          <mxGeometry height="110" width="94.6" x="307.7" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp6ZCIb1_FivlFItrcQt-18" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="数据服务" vertex="1">
+          <mxGeometry height="200" width="550" x="80" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp6ZCIb1_FivlFItrcQt-9" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" value="向量数据库" vertex="1">
+          <mxGeometry height="120" width="91.2" x="451.2" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp6ZCIb1_FivlFItrcQt-6" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" value="OA数据库" vertex="1">
+          <mxGeometry height="120" width="91.2" x="210" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp6ZCIb1_FivlFItrcQt-20" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="应用服务" vertex="1">
+          <mxGeometry height="210" width="550" x="80" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp6ZCIb1_FivlFItrcQt-10" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server" value="文档中台服务" vertex="1">
+          <mxGeometry height="110" width="94.6" x="150" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp6ZCIb1_FivlFItrcQt-17" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server" value="AI服务" vertex="1">
+          <mxGeometry height="110" width="94.6" x="330" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp6ZCIb1_FivlFItrcQt-11" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server" value="大模型" vertex="1">
+          <mxGeometry height="110" width="94.6" x="520" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="Xp6ZCIb1_FivlFItrcQt-23" edge="1" parent="1" source="Xp6ZCIb1_FivlFItrcQt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="Xp6ZCIb1_FivlFItrcQt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
